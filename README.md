@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Oğuz%20Ali%20Özel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=55&descSize=18"/>
 </p>
 
-<h1 align="center">Merhaba 👋 Ben Oğuz Ali Özel</h1>
-
 <h3 align="center">
 Bilgisayar Mühendisliği Öğrencisi | Yazılım Geliştirici
 </h3>
@@ -68,14 +66,6 @@ Bu proje ile atölyelerdeki müşteri takibi, sipariş yönetimi, cari hesap kon
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oguzaliozel&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzaliozel&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
 
 ## 📫 Benimle İletişime Geçin
 
