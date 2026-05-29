@@ -3,7 +3,7 @@
 
 ---
 
-* 🎓 Bursa'da Bilgisayar Mühendisliği eğitimi alıyor, kendimi yazılım geliştirme alanında yetiştiriyorum.
+* 🎓 **Balıkesir Üniversitesi'nde** Bilgisayar Mühendisliği eğitimi alıyor, kendimi yazılım geliştirme alanında yetiştiriyorum.
 * 💻 Ağırlıklı olarak **C#** ve **Python** kullanarak masaüstü uygulamaları, veritabanı yönetim sistemleri ve otomasyon araçları geliştiriyorum.
 * ⚙️ **Özel Makine Cnc** bünyesinde imalat süreçleri, üretim planlama ve atölye maliyet analiz araçları üzerine pratik çözümler tasarlıyorum.
 * 🚀 Şu sıralar en güncel projem olan **[Smart Manufacturing Manager](https://github.com/oguzaliozel/smart-manufacturing-manager)** (Akıllı Üretim Yönetim Sistemi) üzerinde çalışıyor, atölyeler için ciro ve üretim planlama süreçlerini dijitalleştiriyorum.
