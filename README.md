@@ -1,4 +1,3 @@
-md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Oğuz%20Ali%20Özel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=55&descSize=18"/>
 </p>
